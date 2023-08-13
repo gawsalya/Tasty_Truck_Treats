@@ -1,0 +1,14 @@
+boto3
+openpyxl
+pandas
+redshift_connector
+boto3
+pyarrow
+python-dotenv
+pylint
+pytz
+seaborn
+matplotlib
+streamlit
+ipykernel
+pandas
