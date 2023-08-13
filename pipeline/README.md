@@ -19,10 +19,6 @@ For running the script locally
 ```sh
 `python3 main.py`
 ```
-For visualisation of graphs:
-```sh
-`streamlit run graphs.py`
-```
 
 For testing the function
 ```sh
@@ -46,14 +42,6 @@ For testing the function
 
 ### Datafile
 
-- combined.csv -- combined transaction file that has been cleared of invalid results, timezone information have been removed from the timestamp as in this project as we are not concerned with particular times but the schedule as humans will continue to eat at set time range.
 - schema.sql -- contains the SQL schema needed to create tables in the database
 - requirements.txt -- contains necessary libraries to carry out script
 
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
