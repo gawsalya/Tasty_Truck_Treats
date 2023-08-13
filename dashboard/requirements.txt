@@ -1,0 +1,10 @@
+altair
+datetime
+ipykernel
+pandas
+pyarrow
+pylint
+python-dotenv
+redshift-connector
+seaborn
+streamlit
