@@ -1,0 +1,3 @@
+datetime
+python-dotenv
+redshift_connector
