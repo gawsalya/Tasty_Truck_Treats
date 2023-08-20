@@ -8,7 +8,7 @@ This project downloads relevant data from AWS S3, transforms the data by removin
 Can be used in analysing sales in different industries. The automation setup can be useful in sending breakdown reports to executives.
 
 ### Folders
-
+ _please use the folders in this order as you will need to run pipeline prior to using dashboard and reports_
 - pipeline -- this contains the scripts needed to run a pipeline from downloading to uploading to postgres
 - dashboard -- scripts to create graphs representing data in the database using streamlit
 - reports -- scripts to generate HTML string that will be displayed in emails as revenue reports. 
