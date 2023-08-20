@@ -41,5 +41,5 @@ For testing the function
 
 - schema.sql -- contains the SQL schema needed to create tables in the database
 - requirements.txt -- contains necessary libraries to carry out script
-- Dockerfile contains required elements to create an image via Docker -- this can be uploaded onto AWS to recreate via an ECS task. 
+- Dockerfile -- contains required elements to create an image via Docker -- this can be uploaded onto AWS to recreate via an ECS task. 
 
