@@ -29,9 +29,6 @@ For testing the function
 - main.py -- python script containing the main script to run
   `python3 main.py`
   
-- clean_database.sh -- contains the script to clear the database out
-  `bash clean_database.sh`
-  
 - functions_for_etl.py -- contains the functions required for extract, transform and load in the main.py script
 - charts.ipynb -- jupyter notebook containing a few examples of graphs that are made using seaborn and pandas
 
